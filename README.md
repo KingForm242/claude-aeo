@@ -103,7 +103,3 @@ MIT. Use it, fork it, ship it to clients.
 
 **Corey Fox**, senior technical SEO and AEO consultant. Mid-market e-commerce and B2B SaaS.
 [coreyfox.com](https://coreyfox.com) | [Free AI Visibility Audit](https://coreyfox.com/ai-visibility-audit/) | [The full Skills Pack guide](https://coreyfox.com/skills-pack/)
-"# claude-aeo" 
-"# claude-aeo" 
-"# claude-aeo" 
-"# claude-aeo" 
