@@ -1,0 +1,29 @@
+{
+  "name": "claude-aeo",
+  "version": "1.0.0",
+  "description": "Answer Engine Optimization plugin for Claude. 12 skills (1 orchestrator + 11 specialists) that get brands cited by ChatGPT, Perplexity, Claude, and Google AI Overviews: client-ready AI visibility audits with dollar figures, citation testing, AEO content restructuring, JSON-LD schema, E-E-A-T scoring, AI-risk keyword classification, competitor entity gaps, internal linking, content briefs, and GBP posts. Works in Claude Code AND as native claude.ai Skill uploads.",
+  "author": {
+    "name": "Corey Fox",
+    "url": "https://coreyfox.com"
+  },
+  "license": "MIT",
+  "homepage": "https://coreyfox.com/skills-pack/",
+  "repository": "https://github.com/KingForm242/claude-aeo",
+  "keywords": [
+    "aeo",
+    "answer-engine-optimization",
+    "ai-visibility",
+    "ai-search",
+    "geo",
+    "llm-seo",
+    "chatgpt-citations",
+    "ai-overviews",
+    "perplexity",
+    "schema-markup",
+    "e-e-a-t",
+    "content-briefs",
+    "seo-audit",
+    "client-reports",
+    "consulting"
+  ]
+}
